@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 5695eeaaae0fe094bb21b352dd32942e
+timeCreated: 1425456262
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Aile Droite
+    100002: Aile Gauche
+    100004: BAD
+    100006: BAG
+    100008: BC
+    100010: Bec
+    100012: BPD
+    100014: BPG
+    100016: Corps
+    100018: Crete centre
+    100020: Crete droite
+    100022: Crete gauche
+    100024: Globe D
+    100026: globe G
+    100028: Oeil Droit
+    100030: Oeil Gauche
+    100032: Pied Droit
+    100034: Pied Gauche
+    100036: //RootNode
+    400000: Aile Droite
+    400002: Aile Gauche
+    400004: BAD
+    400006: BAG
+    400008: BC
+    400010: Bec
+    400012: BPD
+    400014: BPG
+    400016: Corps
+    400018: Crete centre
+    400020: Crete droite
+    400022: Crete gauche
+    400024: Globe D
+    400026: globe G
+    400028: Oeil Droit
+    400030: Oeil Gauche
+    400032: Pied Droit
+    400034: Pied Gauche
+    400036: //RootNode
+    4300000: Pied Droit
+    4300002: Pied Gauche
+    4300004: Aile Gauche
+    4300006: Aile Droite
+    4300008: Bec
+    4300010: Corps
+    4300012: Crete centre
+    4300014: Crete droite
+    4300016: Crete gauche
+    4300018: Globe D
+    4300020: globe G
+    4300022: Oeil Droit
+    4300024: Oeil Gauche
+    7400000: Run
+    7400002: Jump
+    7400004: Idle
+    9500000: //RootNode
+    13700000: Aile Droite
+    13700002: Aile Gauche
+    13700004: Bec
+    13700006: Corps
+    13700008: Crete centre
+    13700010: Crete droite
+    13700012: Crete gauche
+    13700014: Globe D
+    13700016: globe G
+    13700018: Oeil Droit
+    13700020: Oeil Gauche
+    13700022: Pied Droit
+    13700024: Pied Gauche
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile Droite
+        weight: 1
+      - path: Aile Gauche
+        weight: 1
+      - path: BAD
+        weight: 1
+      - path: BAG
+        weight: 1
+      - path: BC
+        weight: 1
+      - path: Bec
+        weight: 1
+      - path: BPD
+        weight: 1
+      - path: BPG
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Crete centre
+        weight: 1
+      - path: Crete droite
+        weight: 1
+      - path: Crete gauche
+        weight: 1
+      - path: Globe D
+        weight: 1
+      - path: globe G
+        weight: 1
+      - path: Oeil Droit
+        weight: 1
+      - path: Oeil Gauche
+        weight: 1
+      - path: Pied Droit
+        weight: 1
+      - path: Pied Gauche
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile Droite
+        weight: 1
+      - path: Aile Gauche
+        weight: 1
+      - path: BAD
+        weight: 1
+      - path: BAG
+        weight: 1
+      - path: BC
+        weight: 1
+      - path: Bec
+        weight: 1
+      - path: BPD
+        weight: 1
+      - path: BPG
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Crete centre
+        weight: 1
+      - path: Crete droite
+        weight: 1
+      - path: Crete gauche
+        weight: 1
+      - path: Globe D
+        weight: 1
+      - path: globe G
+        weight: 1
+      - path: Oeil Droit
+        weight: 1
+      - path: Oeil Gauche
+        weight: 1
+      - path: Pied Droit
+        weight: 1
+      - path: Pied Gauche
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 59
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 50
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile Droite
+        weight: 1
+      - path: Aile Gauche
+        weight: 1
+      - path: BAD
+        weight: 1
+      - path: BAG
+        weight: 1
+      - path: BC
+        weight: 1
+      - path: Bec
+        weight: 1
+      - path: BPD
+        weight: 1
+      - path: BPG
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Crete centre
+        weight: 1
+      - path: Crete droite
+        weight: 1
+      - path: Crete gauche
+        weight: 1
+      - path: Globe D
+        weight: 1
+      - path: globe G
+        weight: 1
+      - path: Oeil Droit
+        weight: 1
+      - path: Oeil Gauche
+        weight: 1
+      - path: Pied Droit
+        weight: 1
+      - path: Pied Gauche
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
